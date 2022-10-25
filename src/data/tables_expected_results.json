@@ -1,0 +1,6 @@
+{
+  "Model Details": [
+    ["Model Name", "mobilenet_v2_1_4"],
+    ["Input Tensors Shapes", "224x224x3"],
+  ]
+}
